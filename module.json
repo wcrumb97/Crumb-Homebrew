@@ -3,8 +3,7 @@
     "name": "crumb-homebrew",
     "title": "Crumb's Homebrew",
     "description": "Shared homebrew content",
-    "version": "1.0.1",
-    "compatibleCoreVersion": "13",
+    "version": "1.0.2",
     "compatability": {
         "minimum": "13",
         "verified": "13"
@@ -22,6 +21,7 @@
     "packFolders": [{
         "name": "Crumb's Homebrew",
         "sorting": "a",
+        "color": "#343c33",
         "packs": ["crumbs-homebrew-item-compendium"]
     }],
     "relationships": {
