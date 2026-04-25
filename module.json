@@ -3,8 +3,12 @@
     "name": "crumb-homebrew",
     "title": "Crumb's Homebrew",
     "description": "Shared homebrew content",
-    "version": "1.0",
+    "version": "1.0.1",
     "compatibleCoreVersion": "13",
+    "compatability": {
+        "minimum": "13",
+        "verified": "13"
+    },
     "packs": [
         {
             "name": "crumbs-homebrew-item-compendium",
