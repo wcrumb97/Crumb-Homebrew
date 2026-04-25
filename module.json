@@ -3,8 +3,8 @@
     "name": "crumb-homebrew",
     "title": "Crumb's Homebrew",
     "description": "Shared homebrew content",
-    "version": "1.0.2",
-    "compatability": {
+    "version": "1.0.3",
+    "compatibility": {
         "minimum": "13",
         "verified": "13"
     },
